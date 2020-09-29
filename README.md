@@ -7,4 +7,6 @@ Date | Topic | Speaker
 
 ## Resources
 
+[Skype link](https://join.skype.com/aVPiBEnRdtNK)
+
 ## Posts
