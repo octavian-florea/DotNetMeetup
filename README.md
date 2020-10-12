@@ -2,10 +2,11 @@
 
 Date | Topic | Speaker
 ---- | ----- | -------
-15/10/2020 | Fluent API | Gaby
+15/10/2020 | Fluent API | Gabi
 08/10/2020 | Domain driven design (DDD) | Octavian
 01/10/2020| Behavior drive development (BDD) | Octavian
 24/09/2020| Test driven development (TDD) | Octavian
+17/09/2020| Artificial intelligence | Gabi
 
 ## Resources
 
